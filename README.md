@@ -1,4 +1,4 @@
-## Hi there, I'm [J. Guilherme!](https://jguilhermecoelho.github.io) :wave:
+## Hi there, I'm [Guilherme!](https://jguilhermecoelho.github.io) :wave:
 
 <a href="https://twitter.com/guilhermecoelo">
   <img align="left" alt="Guilherme Coelho | Twitter" width="21px" src="https://github.com/JGuilhermeCoelho/JGuilhermeCoelho/blob/master/assets/twitter.svg" />
