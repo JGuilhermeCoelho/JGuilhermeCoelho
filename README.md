@@ -1,9 +1,9 @@
 <div>
 <samp>
-<img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="285" />
+<img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="290" />
 
-  <h2 >Hi there, I'm <a href="https://jguilhermecoelho.github.io">Guilherme!
-</a><img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Hi.gif" height="33px"/></h2>
+<h2 >Hi there, I'm <a href="https://jguilhermecoelho.github.io">Guilherme!
+</a><img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Hello.gif" height="33px"/></h2>
 
 An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
@@ -33,7 +33,7 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 <br>
 
 <hr>
-<br>
+
 <img
   alt="Guilhermes's github stats"
   src="https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true"/>
