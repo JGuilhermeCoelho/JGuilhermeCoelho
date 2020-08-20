@@ -2,7 +2,8 @@
 <samp>
 <img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="290" />
 
-## Hi there, I'm [Guilherme!](https://jguilhermecoelho.github.io) :wave:
+  <h2 >Hi there, I'm <a href="https://jguilhermecoelho.github.io">Guilherme!
+</a><img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Hi.gif" height="33px"/></h2>
 
 An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
