@@ -32,7 +32,7 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 <br>
 
 <hr>
-
+<br>
 <img
   alt="Guilhermes's github stats"
   src="https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true"/>
