@@ -1,6 +1,6 @@
 <div>
 <samp>
-<img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="250" />
+<img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="300" />
 
 ## Hi there, I'm [Guilherme!](https://jguilhermecoelho.github.io) :wave:
 
@@ -33,6 +33,10 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
 <hr>
 
+<div align=""center>
+
 ![Guilhermes's github stats](https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true)
+
+<div>
 
 </div>
