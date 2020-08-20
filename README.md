@@ -29,14 +29,13 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
   src="https://img.shields.io/badge/-joseguilhermecoelhooliveira-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joseguilhermecoelhooliveira@gmail.com"/>
 </a>
 <br>
-</div>
 
 <hr>
 
-<div align=""center>
+<img
+  alt="Guilhermes's github stats"
+  src="https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true"/>
 
-![Guilhermes's github stats](https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true)
-
-<div>
+</div>
 
 </div>
