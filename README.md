@@ -8,6 +8,8 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
 <hr>
 
+<div>
+
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Handshake.gif" height="33px" /></h3>
 
