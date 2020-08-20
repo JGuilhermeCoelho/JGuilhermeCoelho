@@ -7,7 +7,6 @@
 An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
 <hr>
-
 <div>
 
 <div align="center">
