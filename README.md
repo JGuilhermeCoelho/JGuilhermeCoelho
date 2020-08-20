@@ -8,6 +8,9 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
 <hr>
 
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
+
 <a href="https://www.linkedin.com/in/j-guilherme-coelho/">
 <img
   align="left"
@@ -28,7 +31,8 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
   alt="Guilherme Coelho | Email"
   src="https://img.shields.io/badge/-joseguilhermecoelhooliveira-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joseguilhermecoelhooliveira@gmail.com"/>
 </a>
-
+</div>
+<br>
 <hr>
 
 ![Guilhermes's github stats](https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true)
