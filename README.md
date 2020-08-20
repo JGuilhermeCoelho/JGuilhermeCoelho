@@ -1,4 +1,5 @@
 <div>
+<samp>
 <img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="250" />
 
 ## Hi there, I'm [Guilherme!](https://jguilhermecoelho.github.io) :wave:
@@ -27,7 +28,8 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
   alt="Guilherme Coelho | Email"
   src="https://img.shields.io/badge/-joseguilhermecoelhooliveira-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joseguilhermecoelhooliveira@gmail.com"/>
 </a>
-<br>
+
+<hr>
 
 ![Guilhermes's github stats](https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true)
 
