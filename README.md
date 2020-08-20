@@ -1,6 +1,6 @@
 <div>
 <samp>
-<img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="290" />
+<img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="285" />
 
 ## Hi there, I'm [Guilherme!](https://jguilhermecoelho.github.io) :wave:
 
