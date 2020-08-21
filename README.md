@@ -25,7 +25,7 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
   src="https://img.shields.io/badge/-@guilhermecoelo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guilhermecoelo"/>
 </a>
 
-<a align=c href="mailto:joseguilhermecoelhooliveira@gmail.com">
+<a href="mailto:joseguilhermecoelhooliveira@gmail.com">
 <img
   alt="Guilherme Coelho | Email"
   src="https://img.shields.io/badge/-joseguilhermecoelhooliveira-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joseguilhermecoelhooliveira@gmail.com"/>
@@ -37,7 +37,10 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 <img
   alt="Guilhermes's github stats"
   src="https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true"/>
-
+<img
+  height="195px"
+  alt="Top Langs"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeCoelho"/>
 </div>
 
 </div>
