@@ -36,11 +36,10 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
 <img
   alt="Guilhermes's github stats"
-  src="https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true"/>
+  src="https://github-readme-stats.vercel.app/api?username=jguilhermecoelho&show_icons=true&hide=stars&count_private=true"/>
 <img
-  height="195px"
   alt="Top Langs"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeCoelho"/>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeCoelho&layout=compact"/>
 </div>
 
 </div>
