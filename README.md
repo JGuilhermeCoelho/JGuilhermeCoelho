@@ -1,13 +1,15 @@
 <div>
-<samp>
-<img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="275" />
+  <samp>
+  <img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="275" />
 
-<h2 >Hi there, I'm <a href="https://jguilhermecoelho.github.io">Guilherme!
-</a><img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Hello.gif" height="33px"/></h2>
+  <h2>Hi there, I'm <a href="https://jguilhermecoelho.github.io"> <font color="#4F94EF">Guilherme</font>
+  </a><img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Hello.gif" height="33px"/></h2>
 
-An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
+  An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 
-<hr>
+  * :seedling: I'm currently studying about web development
+
+  <hr>
 <div>
 
 <div align="center">
