@@ -13,23 +13,25 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Handshake.gif" height="33px" /></h3>
 
+<a href="https://www.instagram.com/j.guilherme.coelho/">
+  <img height="30" src="./assets/social/instagram.svg" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/j-guilherme-coelho/">
-<img
-  alt="Guilherme Coelho | LinkedIn"
-  src="https://img.shields.io/badge/jguilhermecoelho-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-guilherme-coelho/"/>
+<img heigh="24"
+  src="./assets/social/linkedin.svg"/>
 </a>
-
-<a href="https://twitter.com/guilhermecoelo">
-<img
-  alt="Guilherme Coelho | Twitter"
-  src="https://img.shields.io/badge/-@guilhermecoelo-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guilhermecoelo"/>
-</a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:joseguilhermecoelhooliveira@gmail.com">
-<img
-  alt="Guilherme Coelho | Email"
-  src="https://img.shields.io/badge/-joseguilhermecoelhooliveira-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joseguilhermecoelhooliveira@gmail.com"/>
+<img heigh="24"
+  src="./assets/social/mail.svg"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/guilhermecoelo">
+<img heigh="24"
+  src="./assets/social/twitter.svg"/>
+</a>
+
 <br>
 
 <hr>
@@ -40,6 +42,7 @@ An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
 <img
   alt="Top Langs"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGuilhermeCoelho&layout=compact"/>
+
 </div>
 
 </div>
