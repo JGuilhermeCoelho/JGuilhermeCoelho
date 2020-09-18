@@ -2,7 +2,7 @@
   <samp>
   <img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/JGuilherme_octocat.png" width="275" />
 
-  <h2>Hi there, I'm <a href="https://jguilhermecoelho.github.io"> <font color="#4F94EF">Guilherme</font>
+  <h2>Hi there, I'm <a href="https://jguilhermecoelho.github.io"> <font color="red">Guilherme</font>
   </a><img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Hello.gif" height="33px"/></h2>
 
   An Computer Science Student at Universidade Federal de Campina Grande (UFCG)
