@@ -1,6 +1,6 @@
 <div>
   <samp>
-  <img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Jillustration.png width="275" />
+  <img align="right" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/illustration.png width="275" />
 
   <h2>Hi there, I'm <a href="https://jguilhermecoelho.github.io">Guilherme
   </a><img align="center" src="https://raw.githubusercontent.com/JGuilhermeCoelho/JGuilhermeCoelho/master/assets/Hello.gif" height="33px"/></h2>
