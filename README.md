@@ -19,7 +19,7 @@
   <img height="30" src="./assets/social/instagram.svg" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/j-guilherme-coelho/">
+<a href="https://www.linkedin.com/in/jguilhermecoelho/">
 <img heigh="24"
   src="./assets/social/linkedin.svg"/>
 </a>
